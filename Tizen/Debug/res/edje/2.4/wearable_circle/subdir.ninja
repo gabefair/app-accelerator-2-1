@@ -1,0 +1,18 @@
+################################################################################
+# Automatically-generated file. Do not edit!
+################################################################################
+
+
+edctool = edje_cc
+edcflags = -id "C:/workspaces/Tizen/samsung_bluetooth_explorer/edje/images" -id "C:/tizen-sdk/tools/enventor/share/enventor/images" -sd "C:/workspaces/Tizen/samsung_bluetooth_explorer/edje/sounds" -sd "C:/tizen-sdk/tools/enventor/share/enventor/sounds" -fd "C:/workspaces/Tizen/samsung_bluetooth_explorer/edje/fonts" -fd "C:/tizen-sdk/tools/enventor/share/enventor/fonts"
+
+build res/edje/2.4/wearable_circle/bluetooth_le_viewer.edj: build_edc ../res/edje/2.4/wearable_circle/bluetooth_le_viewer.edc 
+build res/edje/2.4/wearable_circle/bluetooth_oob_viewer.edj: build_edc ../res/edje/2.4/wearable_circle/bluetooth_oob_viewer.edc 
+build res/edje/2.4/wearable_circle/bluetooth_viewer.edj: build_edc ../res/edje/2.4/wearable_circle/bluetooth_viewer.edc 
+build res/edje/2.4/wearable_circle/custom_button.edj: build_edc ../res/edje/2.4/wearable_circle/custom_button.edc 
+build res/edje/2.4/wearable_circle/efl_callback_viewer.edj: build_edc ../res/edje/2.4/wearable_circle/efl_callback_viewer.edc 
+build res/edje/2.4/wearable_circle/image_viewer.edj: build_edc ../res/edje/2.4/wearable_circle/image_viewer.edc 
+build res/edje/2.4/wearable_circle/shortcut_viewer.edj: build_edc ../res/edje/2.4/wearable_circle/shortcut_viewer.edc 
+build res/edje/2.4/wearable_circle/ui_viewer.edj: build_edc ../res/edje/2.4/wearable_circle/ui_viewer.edc 
+build res/edje/2.4/wearable_circle/video_player.edj: build_edc ../res/edje/2.4/wearable_circle/video_player.edc 
+build res/edje/2.4/wearable_circle/wearable_circle_toolbar.edj: build_edc ../res/edje/2.4/wearable_circle/wearable_circle_toolbar.edc 

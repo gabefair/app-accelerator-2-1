@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<tizenFile>
+	<fileInfo>
+		<type>tizen-project</type>
+		<version>1</version>
+		<desc>Tizen Native UI Builder Project</desc>
+	</fileInfo>
+	<tizenProject>
+		<startup viewId="view1" />
+		<device name="WVGA" />
+		<views>
+			<view name="view1" path="layout/layout.tuml" />
+		</views>
+	<storyboard value="true"/>
+	</tizenProject>
+</tizenFile>

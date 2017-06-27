@@ -1,0 +1,14 @@
+#define WEARABLE_TOOLBAR_PART \
+part { name: "wearable_toolbar"; \
+	type: SWALLOW; \
+	description { \
+		state: "default" 0.0; \
+		rel1 { \
+			relative: 0.0 0.74; \
+		} \
+		rel2 { \
+			relative: 1.0 0.9; \
+		} \
+		visible: 1; \
+	} \
+}

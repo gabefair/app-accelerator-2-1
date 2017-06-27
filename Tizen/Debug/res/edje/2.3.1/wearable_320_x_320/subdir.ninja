@@ -1,0 +1,19 @@
+################################################################################
+# Automatically-generated file. Do not edit!
+################################################################################
+
+
+edctool = edje_cc
+edcflags = -id "C:/workspaces/Tizen/samsung_bluetooth_explorer/edje/images" -id "C:/tizen-sdk/tools/enventor/share/enventor/images" -sd "C:/workspaces/Tizen/samsung_bluetooth_explorer/edje/sounds" -sd "C:/tizen-sdk/tools/enventor/share/enventor/sounds" -fd "C:/workspaces/Tizen/samsung_bluetooth_explorer/edje/fonts" -fd "C:/tizen-sdk/tools/enventor/share/enventor/fonts"
+
+build res/edje/2.3.1/wearable_320_x_320/bluetooth_le_viewer.edj: build_edc ../res/edje/2.3.1/wearable_320_x_320/bluetooth_le_viewer.edc 
+build res/edje/2.3.1/wearable_320_x_320/bluetooth_oob_viewer.edj: build_edc ../res/edje/2.3.1/wearable_320_x_320/bluetooth_oob_viewer.edc 
+build res/edje/2.3.1/wearable_320_x_320/bluetooth_viewer.edj: build_edc ../res/edje/2.3.1/wearable_320_x_320/bluetooth_viewer.edc 
+build res/edje/2.3.1/wearable_320_x_320/custom_button.edj: build_edc ../res/edje/2.3.1/wearable_320_x_320/custom_button.edc 
+build res/edje/2.3.1/wearable_320_x_320/efl_callback_viewer.edj: build_edc ../res/edje/2.3.1/wearable_320_x_320/efl_callback_viewer.edc 
+build res/edje/2.3.1/wearable_320_x_320/image_viewer.edj: build_edc ../res/edje/2.3.1/wearable_320_x_320/image_viewer.edc 
+build res/edje/2.3.1/wearable_320_x_320/shortcut_viewer.edj: build_edc ../res/edje/2.3.1/wearable_320_x_320/shortcut_viewer.edc 
+build res/edje/2.3.1/wearable_320_x_320/ui_viewer.edj: build_edc ../res/edje/2.3.1/wearable_320_x_320/ui_viewer.edc 
+build res/edje/2.3.1/wearable_320_x_320/video_player.edj: build_edc ../res/edje/2.3.1/wearable_320_x_320/video_player.edc 
+build res/edje/2.3.1/wearable_320_x_320/wearable_320_x_320_toolbar.edj: build_edc ../res/edje/2.3.1/wearable_320_x_320/wearable_320_x_320_toolbar.edc 
+build res/edje/2.3.1/wearable_320_x_320/wearable_circle_toolbar.edj: build_edc ../res/edje/2.3.1/wearable_320_x_320/wearable_circle_toolbar.edc 

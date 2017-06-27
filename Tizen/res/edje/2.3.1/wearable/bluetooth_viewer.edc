@@ -1,0 +1,147 @@
+/*
+ * Copyright (c) 2014 Samsung Electronics Co., Ltd All Rights Reserved
+ *
+ * Licensed under the Apache License, Version 2.0 (the License);
+ * you may not use this file except in compliance with the License.
+ * You may obtain a copy of the License at
+ *
+ * http://www.apache.org/licenses/LICENSE-2.0
+ *
+ * Unless required by applicable law or agreed to in writing, software
+ * distributed under the License is distributed on an "AS IS" BASIS,
+ * WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+ * See the License for the specific language governing permissions and
+ * limitations under the License.
+ */
+
+#define TEXT_HEIGHT 0.08
+#define CONTENT_X_PAD 0.15
+
+#include "wearable_toolbar.edc"
+
+collections
+{
+    base_scale: 1.8;
+    group
+    {
+        name: "bluetooth_viewer";
+        parts{			
+            part{
+                name: "bluetooth_text";
+                type: SWALLOW;
+                description{
+                    state: "default" 0.0;
+                    align: 0.0 0.0;
+                    visible: 1;
+                    rel1 {relative: 0.0 0.0; }
+                    rel2 {relative: 1.0 TEXT_HEIGHT; }
+                }
+            }
+            
+            part{
+                name: "bluetooth_list";
+                type: SWALLOW;
+                description{
+                    state: "default" 0.0;
+                    align: 0.0 0.0;
+                    visible: 1;
+                     rel1{
+                        relative: 0.0 1.0;
+                        to_y: "bluetooth_text";
+                    }
+                    rel2{
+                        relative: 1.0 0.80;
+                    }
+                }
+            }
+        
+			part{ 
+				name: "controlr_part";
+				type: SWALLOW;
+				description {
+					state: "default" 0.0;
+					rel1 { 
+						 relative: 0.0 1.0;
+						 to_y: "bluetooth_list";
+					}
+					rel2 { 
+						 relative: 1.0 0.9; 
+					}
+					visible: 1;
+				}
+			}
+
+            WEARABLE_TOOLBAR_PART
+		}
+    }
+   
+   group
+    {
+        name: "bluetooth_viewer_cancel_check";
+        parts{			
+            part{
+                name: "bluetooth_text";
+                type: SWALLOW;
+                description{
+                    state: "default" 0.0;
+                    align: 0.0 0.0;
+                    visible: 1;
+                    rel1 {relative: 0.0 0.0; }
+                    rel2 {relative: 1.0 TEXT_HEIGHT; }
+                }
+            }
+            
+            part{
+                name: "bluetooth_list";
+                type: SWALLOW;
+                description{
+                    state: "default" 0.0;
+                    align: 0.0 0.0;
+                    visible: 1;
+                     rel1{
+                        relative: 0.0 1.0;
+                        to_y: "bluetooth_text";
+                    }
+                    rel2{
+                        relative: 1.0 0.70;
+                    }
+                }
+            }
+         
+           part{
+                name: "check_part";
+                type: SWALLOW;
+                description{
+                    state: "default" 0.0;
+                    align: 0.0 0.0;
+                    visible: 1;
+                     rel1{
+                        relative: 0.25 1.0;
+                        to_y: "bluetooth_list";
+                    }
+                    rel2{
+                        relative: 0.75 0.80;
+                    }
+                }
+            }
+        
+			part{ 
+				name: "controlr_part";
+				type: SWALLOW;
+				description {
+					state: "default" 0.0;
+					rel1 { 
+						 relative: 0.0 1.0;
+						 to_y: "check_part";
+					}
+					rel2 { 
+						 relative: 1.0 9.0; 
+					}
+					visible: 1;
+				}
+			}
+
+            WEARABLE_TOOLBAR_PART
+		}
+    }
+}

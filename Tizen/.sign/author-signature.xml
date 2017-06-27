@@ -1,0 +1,715 @@
+<Signature xmlns="http://www.w3.org/2000/09/xmldsig#" Id="AuthorSignature">
+<SignedInfo>
+<CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#"></CanonicalizationMethod>
+<SignatureMethod Algorithm="http://www.w3.org/2001/04/xmldsig-more#rsa-sha256"></SignatureMethod>
+<Reference URI="author-signature-default.xml">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>AkForTWLrqo4PTdlsbRPgWBlYEDUzkUcL7xHHzHIrXg=</DigestValue>
+</Reference>
+<Reference URI="bin%2Fbt_behavior">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>Z5FoRWMIu86I1X5jRaT+dyi3L3JEFTJryzLPmlJpmbQ=</DigestValue>
+</Reference>
+<Reference URI="res%2Fedje%2F2.3.1%2Fmobile%2Fbluetooth_le_viewer.edj">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>pB2amX1aMfishJg8cM/XEll4EZzUP5h1n28+x+8Mzgs=</DigestValue>
+</Reference>
+<Reference URI="res%2Fedje%2F2.3.1%2Fmobile%2Fbluetooth_oob_viewer.edj">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>UFw13C0DK7xBamhpKoyXWdOLRSaNifBSLxgS+JiVyxc=</DigestValue>
+</Reference>
+<Reference URI="res%2Fedje%2F2.3.1%2Fmobile%2Fbluetooth_viewer.edj">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>DC4xW9skOabbkXW4uznGOjLAuGNOxib9FTNY/dgKbRc=</DigestValue>
+</Reference>
+<Reference URI="res%2Fedje%2F2.3.1%2Fmobile%2Fcustom_button.edj">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>YEUwnehHNHkAuaZFJqx4kuvi2uoTjW/wuumWP33h5kA=</DigestValue>
+</Reference>
+<Reference URI="res%2Fedje%2F2.3.1%2Fmobile%2Fefl_callback_viewer.edj">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>6ct8JxA0eZWAoanvU8NBwjwx2k51CmlLtTYubVkANCo=</DigestValue>
+</Reference>
+<Reference URI="res%2Fedje%2F2.3.1%2Fmobile%2Fimage_viewer.edj">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>H6V3nHLdeGNALi7ExbJqv8qYYgvkX62sQIxoM5XOr+Y=</DigestValue>
+</Reference>
+<Reference URI="res%2Fedje%2F2.3.1%2Fmobile%2Fshortcut_viewer.edj">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>SoxK3aN4cWeehnG8j1Dd3SS0cpCHwug5JTmNw9AyaRY=</DigestValue>
+</Reference>
+<Reference URI="res%2Fedje%2F2.3.1%2Fmobile%2Fui_viewer.edj">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>M00YuQaVF1mBmr2vedLArMDEeuvA94CnS1H99RfGVy0=</DigestValue>
+</Reference>
+<Reference URI="res%2Fedje%2F2.3.1%2Fmobile%2Fvideo_player.edj">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>0jCwOE6Qz54DsYNdVzjZ7jzWbJ7YTyWflhAcjuHNFDQ=</DigestValue>
+</Reference>
+<Reference URI="res%2Fedje%2F2.3.1%2Fwearable%2Fbluetooth_le_viewer.edj">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>L7fm0urRzvOaUG0UVoH0NaxaV/LQaOvFvATKpLI0i5k=</DigestValue>
+</Reference>
+<Reference URI="res%2Fedje%2F2.3.1%2Fwearable%2Fbluetooth_oob_viewer.edj">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>WEaS5AF9QvauwDg2WeezJt8IBQmbKmglLXLMtwEF5EM=</DigestValue>
+</Reference>
+<Reference URI="res%2Fedje%2F2.3.1%2Fwearable%2Fbluetooth_viewer.edj">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>VZEEGmuPde4bshAvOU7n9ylDqDb4kz3oaxBbJdfTu9c=</DigestValue>
+</Reference>
+<Reference URI="res%2Fedje%2F2.3.1%2Fwearable%2Fcustom_button.edj">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>YEUwnehHNHkAuaZFJqx4kuvi2uoTjW/wuumWP33h5kA=</DigestValue>
+</Reference>
+<Reference URI="res%2Fedje%2F2.3.1%2Fwearable%2Fefl_callback_viewer.edj">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>3hpoD+rn0ctDaG09Va4d4YQDsNHzWBqnlv2W9+HEaA8=</DigestValue>
+</Reference>
+<Reference URI="res%2Fedje%2F2.3.1%2Fwearable%2Fimage_viewer.edj">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>EulCCkTDz8pLvgIvgYgwtDilJRvW1/Iuo6+f4T9s7Fg=</DigestValue>
+</Reference>
+<Reference URI="res%2Fedje%2F2.3.1%2Fwearable%2Fshortcut_viewer.edj">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>7qZ3UkVZAnRpdzdsTRtsBSt+PjBUsrzqoUIy3jRN1qc=</DigestValue>
+</Reference>
+<Reference URI="res%2Fedje%2F2.3.1%2Fwearable%2Fui_viewer.edj">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>G0l+hSX118KQhj0sk2wTTlls1AkZqKKi0Aya8LVTx/w=</DigestValue>
+</Reference>
+<Reference URI="res%2Fedje%2F2.3.1%2Fwearable%2Fvideo_player.edj">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>yd0idkD7dOmreNCD+1fE/f1sECO+9kVq6XuXxzcmCe0=</DigestValue>
+</Reference>
+<Reference URI="res%2Fedje%2F2.3.1%2Fwearable%2Fwearable_toolbar.edj">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>AwF0h0/IW1f/f0n6hbQ+jjVTdCDbC9eX98vWk0TufyI=</DigestValue>
+</Reference>
+<Reference URI="res%2Fedje%2F2.3.1%2Fwearable_320_x_320%2Fbluetooth_le_viewer.edj">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>rcVwoSxzy8y+6soVzzuGg5uJ5vhraca2LpKViPpNwrY=</DigestValue>
+</Reference>
+<Reference URI="res%2Fedje%2F2.3.1%2Fwearable_320_x_320%2Fbluetooth_oob_viewer.edj">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>UX79vMj0QYHfqhR6kdZAOjfTktgZJSVw2F/E5j2yd6g=</DigestValue>
+</Reference>
+<Reference URI="res%2Fedje%2F2.3.1%2Fwearable_320_x_320%2Fbluetooth_viewer.edj">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>48TZIhdaoehrKsdwFkL5i1Avd5Txs+z4ETpibCrxbA4=</DigestValue>
+</Reference>
+<Reference URI="res%2Fedje%2F2.3.1%2Fwearable_320_x_320%2Fcustom_button.edj">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>YEUwnehHNHkAuaZFJqx4kuvi2uoTjW/wuumWP33h5kA=</DigestValue>
+</Reference>
+<Reference URI="res%2Fedje%2F2.3.1%2Fwearable_320_x_320%2Fefl_callback_viewer.edj">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>JaWNu4PI3TwbH5FHdPFwajzm4uo7ttDhMTCCrHHIvPI=</DigestValue>
+</Reference>
+<Reference URI="res%2Fedje%2F2.3.1%2Fwearable_320_x_320%2Fimage_viewer.edj">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>/5YDmBIOLXVHpvgvNMRGNIyI6os4y95Mq5nTlszDn+s=</DigestValue>
+</Reference>
+<Reference URI="res%2Fedje%2F2.3.1%2Fwearable_320_x_320%2Fshortcut_viewer.edj">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>TbSJX1HSdz3wCdaMon/3UXXiLiBiQVzfoUB39xleQIs=</DigestValue>
+</Reference>
+<Reference URI="res%2Fedje%2F2.3.1%2Fwearable_320_x_320%2Fui_viewer.edj">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>S4H0IzP2Uj9gozqJDfpFS7MvgwhoBIK0CG9KHEN2qQA=</DigestValue>
+</Reference>
+<Reference URI="res%2Fedje%2F2.3.1%2Fwearable_320_x_320%2Fvideo_player.edj">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>YA3pbJwiJ+OHgtB3PXxqNmqulhk8dSoLg+nwoLWQTWs=</DigestValue>
+</Reference>
+<Reference URI="res%2Fedje%2F2.3.1%2Fwearable_320_x_320%2Fwearable_320_x_320_toolbar.edj">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>HyuF0tNEu3V/wG1DFgDGXWHz5ZuBRVEGiw4zNnkZy20=</DigestValue>
+</Reference>
+<Reference URI="res%2Fedje%2F2.3.1%2Fwearable_320_x_320%2Fwearable_circle_toolbar.edj">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>7g5amOiqfjc9AhGnvuf7H3WLJENFGdNBGpg3zRUV+D0=</DigestValue>
+</Reference>
+<Reference URI="res%2Fedje%2F2.3.1%2Fwearable_360_x_480%2Fbluetooth_le_viewer.edj">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>/F8iNyj3TnwxrMoMH6CujeIunV6PFccyfTNQIGxL15o=</DigestValue>
+</Reference>
+<Reference URI="res%2Fedje%2F2.3.1%2Fwearable_360_x_480%2Fbluetooth_oob_viewer.edj">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>5FQeI6ZdF0ZXw6r/kFZB8epazVRusfQd28fT+FbVMI8=</DigestValue>
+</Reference>
+<Reference URI="res%2Fedje%2F2.3.1%2Fwearable_360_x_480%2Fbluetooth_viewer.edj">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>4QmIpF22xTdUT7QgbOubiONmJB+/q/fL4c9vRCulEYA=</DigestValue>
+</Reference>
+<Reference URI="res%2Fedje%2F2.3.1%2Fwearable_360_x_480%2Fcustom_button.edj">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>YEUwnehHNHkAuaZFJqx4kuvi2uoTjW/wuumWP33h5kA=</DigestValue>
+</Reference>
+<Reference URI="res%2Fedje%2F2.3.1%2Fwearable_360_x_480%2Fefl_callback_viewer.edj">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>Z1RQB/rF3QgcwYCYER8cviaPokBFCdg2xvP9em8VYbc=</DigestValue>
+</Reference>
+<Reference URI="res%2Fedje%2F2.3.1%2Fwearable_360_x_480%2Fimage_viewer.edj">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>iHEStPu2AJmLNQjCmtIwRj6OVaQFFe+g0Jf1o9nwPIk=</DigestValue>
+</Reference>
+<Reference URI="res%2Fedje%2F2.3.1%2Fwearable_360_x_480%2Fshortcut_viewer.edj">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>Pl7iurwNr87qqvfQvhyX5l1CvfPMRpwOZjlIBKqzA4I=</DigestValue>
+</Reference>
+<Reference URI="res%2Fedje%2F2.3.1%2Fwearable_360_x_480%2Fui_viewer.edj">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>IfupNJe+0P+vkn0jcjIeYzKpRiY3Z4qPoqpQ4XZpcOo=</DigestValue>
+</Reference>
+<Reference URI="res%2Fedje%2F2.3.1%2Fwearable_360_x_480%2Fvideo_player.edj">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>gpFgHcsn8K+zWdv3sXZhacIp63Ja650zmkgBaXI3v4c=</DigestValue>
+</Reference>
+<Reference URI="res%2Fedje%2F2.3.1%2Fwearable_360_x_480%2Fwearable_360_x_480_toolbar.edj">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>qnZ5ntoFJfxZkQow53UwFp66v5dJzs/y/ZGdDAmcjSw=</DigestValue>
+</Reference>
+<Reference URI="res%2Fedje%2F2.3.1%2Fwearable_circle%2Fbluetooth_le_viewer.edj">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>kWCHYLzaMVQqLQfXRIAzjJ+Ft68E77TWlLqFWHmd8Hg=</DigestValue>
+</Reference>
+<Reference URI="res%2Fedje%2F2.3.1%2Fwearable_circle%2Fbluetooth_oob_viewer.edj">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>rTmuf6Q9rvQPipKetpkYxY9OThwncZvNuvuAJakzOXs=</DigestValue>
+</Reference>
+<Reference URI="res%2Fedje%2F2.3.1%2Fwearable_circle%2Fbluetooth_viewer.edj">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>Bhz2jVcOmwnZyZ3bwZCasSMV/mRfHetA5sHkUbsbREk=</DigestValue>
+</Reference>
+<Reference URI="res%2Fedje%2F2.3.1%2Fwearable_circle%2Fcustom_button.edj">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>YEUwnehHNHkAuaZFJqx4kuvi2uoTjW/wuumWP33h5kA=</DigestValue>
+</Reference>
+<Reference URI="res%2Fedje%2F2.3.1%2Fwearable_circle%2Fefl_callback_viewer.edj">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>q+KHCCIWD0Sz1odFClP4zK4o6w1T2KO65uJT3dqbiXM=</DigestValue>
+</Reference>
+<Reference URI="res%2Fedje%2F2.3.1%2Fwearable_circle%2Fimage_viewer.edj">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>qhUS3smXjLHDtpZVuIReKDbMsL7EfEo3eHBCQzZxv18=</DigestValue>
+</Reference>
+<Reference URI="res%2Fedje%2F2.3.1%2Fwearable_circle%2Fshortcut_viewer.edj">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>c2/JHElCLYLBnLhwuxxMEaCNPq1pQIFok+EvsZBNv2s=</DigestValue>
+</Reference>
+<Reference URI="res%2Fedje%2F2.3.1%2Fwearable_circle%2Fui_viewer.edj">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>qwhI/KYoLOuvY2yM3IQUVgs4Jd+sPeR6bG3AEi2MsEc=</DigestValue>
+</Reference>
+<Reference URI="res%2Fedje%2F2.3.1%2Fwearable_circle%2Fvideo_player.edj">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>Xpo5YHyFpHBJdqoSV3LlWdyWObDpUrq5DOLRkAf31MQ=</DigestValue>
+</Reference>
+<Reference URI="res%2Fedje%2F2.3.1%2Fwearable_circle%2Fwearable_circle_toolbar.edj">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>7g5amOiqfjc9AhGnvuf7H3WLJENFGdNBGpg3zRUV+D0=</DigestValue>
+</Reference>
+<Reference URI="res%2Fedje%2F2.4%2Fmobile%2Fbluetooth_le_viewer.edj">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>pB2amX1aMfishJg8cM/XEll4EZzUP5h1n28+x+8Mzgs=</DigestValue>
+</Reference>
+<Reference URI="res%2Fedje%2F2.4%2Fmobile%2Fbluetooth_oob_viewer.edj">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>UFw13C0DK7xBamhpKoyXWdOLRSaNifBSLxgS+JiVyxc=</DigestValue>
+</Reference>
+<Reference URI="res%2Fedje%2F2.4%2Fmobile%2Fbluetooth_viewer.edj">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>DC4xW9skOabbkXW4uznGOjLAuGNOxib9FTNY/dgKbRc=</DigestValue>
+</Reference>
+<Reference URI="res%2Fedje%2F2.4%2Fmobile%2Fcustom_button.edj">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>YEUwnehHNHkAuaZFJqx4kuvi2uoTjW/wuumWP33h5kA=</DigestValue>
+</Reference>
+<Reference URI="res%2Fedje%2F2.4%2Fmobile%2Fefl_callback_viewer.edj">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>6ct8JxA0eZWAoanvU8NBwjwx2k51CmlLtTYubVkANCo=</DigestValue>
+</Reference>
+<Reference URI="res%2Fedje%2F2.4%2Fmobile%2Fimage_viewer.edj">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>H6V3nHLdeGNALi7ExbJqv8qYYgvkX62sQIxoM5XOr+Y=</DigestValue>
+</Reference>
+<Reference URI="res%2Fedje%2F2.4%2Fmobile%2Fshortcut_viewer.edj">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>qoyX+koREE83aEGFnnB7a424Eq11m4DSaJqStnv3JLM=</DigestValue>
+</Reference>
+<Reference URI="res%2Fedje%2F2.4%2Fmobile%2Fui_viewer.edj">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>M00YuQaVF1mBmr2vedLArMDEeuvA94CnS1H99RfGVy0=</DigestValue>
+</Reference>
+<Reference URI="res%2Fedje%2F2.4%2Fmobile%2Fvideo_player.edj">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>0jCwOE6Qz54DsYNdVzjZ7jzWbJ7YTyWflhAcjuHNFDQ=</DigestValue>
+</Reference>
+<Reference URI="res%2Fedje%2F2.4%2Fwearable%2Fbluetooth_le_viewer.edj">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>L7fm0urRzvOaUG0UVoH0NaxaV/LQaOvFvATKpLI0i5k=</DigestValue>
+</Reference>
+<Reference URI="res%2Fedje%2F2.4%2Fwearable%2Fbluetooth_oob_viewer.edj">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>WEaS5AF9QvauwDg2WeezJt8IBQmbKmglLXLMtwEF5EM=</DigestValue>
+</Reference>
+<Reference URI="res%2Fedje%2F2.4%2Fwearable%2Fbluetooth_viewer.edj">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>VZEEGmuPde4bshAvOU7n9ylDqDb4kz3oaxBbJdfTu9c=</DigestValue>
+</Reference>
+<Reference URI="res%2Fedje%2F2.4%2Fwearable%2Fcustom_button.edj">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>YEUwnehHNHkAuaZFJqx4kuvi2uoTjW/wuumWP33h5kA=</DigestValue>
+</Reference>
+<Reference URI="res%2Fedje%2F2.4%2Fwearable%2Fefl_callback_viewer.edj">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>3hpoD+rn0ctDaG09Va4d4YQDsNHzWBqnlv2W9+HEaA8=</DigestValue>
+</Reference>
+<Reference URI="res%2Fedje%2F2.4%2Fwearable%2Fimage_viewer.edj">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>EulCCkTDz8pLvgIvgYgwtDilJRvW1/Iuo6+f4T9s7Fg=</DigestValue>
+</Reference>
+<Reference URI="res%2Fedje%2F2.4%2Fwearable%2Fshortcut_viewer.edj">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>7qZ3UkVZAnRpdzdsTRtsBSt+PjBUsrzqoUIy3jRN1qc=</DigestValue>
+</Reference>
+<Reference URI="res%2Fedje%2F2.4%2Fwearable%2Fui_viewer.edj">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>G0l+hSX118KQhj0sk2wTTlls1AkZqKKi0Aya8LVTx/w=</DigestValue>
+</Reference>
+<Reference URI="res%2Fedje%2F2.4%2Fwearable%2Fvideo_player.edj">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>yd0idkD7dOmreNCD+1fE/f1sECO+9kVq6XuXxzcmCe0=</DigestValue>
+</Reference>
+<Reference URI="res%2Fedje%2F2.4%2Fwearable%2Fwearable_toolbar.edj">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>AwF0h0/IW1f/f0n6hbQ+jjVTdCDbC9eX98vWk0TufyI=</DigestValue>
+</Reference>
+<Reference URI="res%2Fedje%2F2.4%2Fwearable_320_x_320%2Fbluetooth_le_viewer.edj">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>rcVwoSxzy8y+6soVzzuGg5uJ5vhraca2LpKViPpNwrY=</DigestValue>
+</Reference>
+<Reference URI="res%2Fedje%2F2.4%2Fwearable_320_x_320%2Fbluetooth_oob_viewer.edj">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>UX79vMj0QYHfqhR6kdZAOjfTktgZJSVw2F/E5j2yd6g=</DigestValue>
+</Reference>
+<Reference URI="res%2Fedje%2F2.4%2Fwearable_320_x_320%2Fbluetooth_viewer.edj">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>6dm3wsRG5bgHmeHsjw+9PbFel4ZZjD3iDmy9vNH62e8=</DigestValue>
+</Reference>
+<Reference URI="res%2Fedje%2F2.4%2Fwearable_320_x_320%2Fcustom_button.edj">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>YEUwnehHNHkAuaZFJqx4kuvi2uoTjW/wuumWP33h5kA=</DigestValue>
+</Reference>
+<Reference URI="res%2Fedje%2F2.4%2Fwearable_320_x_320%2Fefl_callback_viewer.edj">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>JaWNu4PI3TwbH5FHdPFwajzm4uo7ttDhMTCCrHHIvPI=</DigestValue>
+</Reference>
+<Reference URI="res%2Fedje%2F2.4%2Fwearable_320_x_320%2Fimage_viewer.edj">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>/5YDmBIOLXVHpvgvNMRGNIyI6os4y95Mq5nTlszDn+s=</DigestValue>
+</Reference>
+<Reference URI="res%2Fedje%2F2.4%2Fwearable_320_x_320%2Fshortcut_viewer.edj">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>TbSJX1HSdz3wCdaMon/3UXXiLiBiQVzfoUB39xleQIs=</DigestValue>
+</Reference>
+<Reference URI="res%2Fedje%2F2.4%2Fwearable_320_x_320%2Fui_viewer.edj">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>S4H0IzP2Uj9gozqJDfpFS7MvgwhoBIK0CG9KHEN2qQA=</DigestValue>
+</Reference>
+<Reference URI="res%2Fedje%2F2.4%2Fwearable_320_x_320%2Fvideo_player.edj">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>qlRf4nPoCIvQDpz07yF0TSmPAYgrgRKbyXq+GbsVyRU=</DigestValue>
+</Reference>
+<Reference URI="res%2Fedje%2F2.4%2Fwearable_320_x_320%2Fwearable_320_x_320_toolbar.edj">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>HyuF0tNEu3V/wG1DFgDGXWHz5ZuBRVEGiw4zNnkZy20=</DigestValue>
+</Reference>
+<Reference URI="res%2Fedje%2F2.4%2Fwearable_360_x_480%2Fbluetooth_le_viewer.edj">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>/F8iNyj3TnwxrMoMH6CujeIunV6PFccyfTNQIGxL15o=</DigestValue>
+</Reference>
+<Reference URI="res%2Fedje%2F2.4%2Fwearable_360_x_480%2Fbluetooth_oob_viewer.edj">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>5FQeI6ZdF0ZXw6r/kFZB8epazVRusfQd28fT+FbVMI8=</DigestValue>
+</Reference>
+<Reference URI="res%2Fedje%2F2.4%2Fwearable_360_x_480%2Fbluetooth_viewer.edj">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>4QmIpF22xTdUT7QgbOubiONmJB+/q/fL4c9vRCulEYA=</DigestValue>
+</Reference>
+<Reference URI="res%2Fedje%2F2.4%2Fwearable_360_x_480%2Fcustom_button.edj">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>YEUwnehHNHkAuaZFJqx4kuvi2uoTjW/wuumWP33h5kA=</DigestValue>
+</Reference>
+<Reference URI="res%2Fedje%2F2.4%2Fwearable_360_x_480%2Fefl_callback_viewer.edj">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>Z1RQB/rF3QgcwYCYER8cviaPokBFCdg2xvP9em8VYbc=</DigestValue>
+</Reference>
+<Reference URI="res%2Fedje%2F2.4%2Fwearable_360_x_480%2Fimage_viewer.edj">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>iHEStPu2AJmLNQjCmtIwRj6OVaQFFe+g0Jf1o9nwPIk=</DigestValue>
+</Reference>
+<Reference URI="res%2Fedje%2F2.4%2Fwearable_360_x_480%2Fshortcut_viewer.edj">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>Pl7iurwNr87qqvfQvhyX5l1CvfPMRpwOZjlIBKqzA4I=</DigestValue>
+</Reference>
+<Reference URI="res%2Fedje%2F2.4%2Fwearable_360_x_480%2Fui_viewer.edj">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>IfupNJe+0P+vkn0jcjIeYzKpRiY3Z4qPoqpQ4XZpcOo=</DigestValue>
+</Reference>
+<Reference URI="res%2Fedje%2F2.4%2Fwearable_360_x_480%2Fvideo_player.edj">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>ZAiOgU7J4Gi9JlvI5NDC9j2193oiCmbMm9ztOUZlp8Q=</DigestValue>
+</Reference>
+<Reference URI="res%2Fedje%2F2.4%2Fwearable_360_x_480%2Fwearable_360_x_480_toolbar.edj">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>qnZ5ntoFJfxZkQow53UwFp66v5dJzs/y/ZGdDAmcjSw=</DigestValue>
+</Reference>
+<Reference URI="res%2Fedje%2F2.4%2Fwearable_circle%2Fbluetooth_le_viewer.edj">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>kWCHYLzaMVQqLQfXRIAzjJ+Ft68E77TWlLqFWHmd8Hg=</DigestValue>
+</Reference>
+<Reference URI="res%2Fedje%2F2.4%2Fwearable_circle%2Fbluetooth_oob_viewer.edj">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>rTmuf6Q9rvQPipKetpkYxY9OThwncZvNuvuAJakzOXs=</DigestValue>
+</Reference>
+<Reference URI="res%2Fedje%2F2.4%2Fwearable_circle%2Fbluetooth_viewer.edj">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>fsllaiPg/hKlbVUxe7smK9zkwtG078iLjWyD1U3qvqA=</DigestValue>
+</Reference>
+<Reference URI="res%2Fedje%2F2.4%2Fwearable_circle%2Fcustom_button.edj">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>YEUwnehHNHkAuaZFJqx4kuvi2uoTjW/wuumWP33h5kA=</DigestValue>
+</Reference>
+<Reference URI="res%2Fedje%2F2.4%2Fwearable_circle%2Fefl_callback_viewer.edj">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>q+KHCCIWD0Sz1odFClP4zK4o6w1T2KO65uJT3dqbiXM=</DigestValue>
+</Reference>
+<Reference URI="res%2Fedje%2F2.4%2Fwearable_circle%2Fimage_viewer.edj">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>qhUS3smXjLHDtpZVuIReKDbMsL7EfEo3eHBCQzZxv18=</DigestValue>
+</Reference>
+<Reference URI="res%2Fedje%2F2.4%2Fwearable_circle%2Fshortcut_viewer.edj">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>c2/JHElCLYLBnLhwuxxMEaCNPq1pQIFok+EvsZBNv2s=</DigestValue>
+</Reference>
+<Reference URI="res%2Fedje%2F2.4%2Fwearable_circle%2Fui_viewer.edj">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>qwhI/KYoLOuvY2yM3IQUVgs4Jd+sPeR6bG3AEi2MsEc=</DigestValue>
+</Reference>
+<Reference URI="res%2Fedje%2F2.4%2Fwearable_circle%2Fvideo_player.edj">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>dL4xrveAn+Iwg0HjHMKyulIqIoJWFD1VyxCaeqLj1/U=</DigestValue>
+</Reference>
+<Reference URI="res%2Fedje%2F2.4%2Fwearable_circle%2Fwearable_circle_toolbar.edj">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>7g5amOiqfjc9AhGnvuf7H3WLJENFGdNBGpg3zRUV+D0=</DigestValue>
+</Reference>
+<Reference URI="res%2Fedje%2F3.0%2Fmobile%2Fbluetooth_le_viewer.edj">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>pB2amX1aMfishJg8cM/XEll4EZzUP5h1n28+x+8Mzgs=</DigestValue>
+</Reference>
+<Reference URI="res%2Fedje%2F3.0%2Fmobile%2Fbluetooth_oob_viewer.edj">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>UFw13C0DK7xBamhpKoyXWdOLRSaNifBSLxgS+JiVyxc=</DigestValue>
+</Reference>
+<Reference URI="res%2Fedje%2F3.0%2Fmobile%2Fbluetooth_viewer.edj">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>DC4xW9skOabbkXW4uznGOjLAuGNOxib9FTNY/dgKbRc=</DigestValue>
+</Reference>
+<Reference URI="res%2Fedje%2F3.0%2Fmobile%2Fcustom_button.edj">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>YEUwnehHNHkAuaZFJqx4kuvi2uoTjW/wuumWP33h5kA=</DigestValue>
+</Reference>
+<Reference URI="res%2Fedje%2F3.0%2Fmobile%2Fefl_callback_viewer.edj">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>6ct8JxA0eZWAoanvU8NBwjwx2k51CmlLtTYubVkANCo=</DigestValue>
+</Reference>
+<Reference URI="res%2Fedje%2F3.0%2Fmobile%2Fimage_viewer.edj">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>H6V3nHLdeGNALi7ExbJqv8qYYgvkX62sQIxoM5XOr+Y=</DigestValue>
+</Reference>
+<Reference URI="res%2Fedje%2F3.0%2Fmobile%2Fshortcut_viewer.edj">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>qoyX+koREE83aEGFnnB7a424Eq11m4DSaJqStnv3JLM=</DigestValue>
+</Reference>
+<Reference URI="res%2Fedje%2F3.0%2Fmobile%2Fui_viewer.edj">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>M00YuQaVF1mBmr2vedLArMDEeuvA94CnS1H99RfGVy0=</DigestValue>
+</Reference>
+<Reference URI="res%2Fedje%2F3.0%2Fmobile%2Fvideo_player.edj">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>0jCwOE6Qz54DsYNdVzjZ7jzWbJ7YTyWflhAcjuHNFDQ=</DigestValue>
+</Reference>
+<Reference URI="res%2Fedje%2F3.0%2Fwearable%2Fbluetooth_le_viewer.edj">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>L7fm0urRzvOaUG0UVoH0NaxaV/LQaOvFvATKpLI0i5k=</DigestValue>
+</Reference>
+<Reference URI="res%2Fedje%2F3.0%2Fwearable%2Fbluetooth_oob_viewer.edj">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>WEaS5AF9QvauwDg2WeezJt8IBQmbKmglLXLMtwEF5EM=</DigestValue>
+</Reference>
+<Reference URI="res%2Fedje%2F3.0%2Fwearable%2Fbluetooth_viewer.edj">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>VZEEGmuPde4bshAvOU7n9ylDqDb4kz3oaxBbJdfTu9c=</DigestValue>
+</Reference>
+<Reference URI="res%2Fedje%2F3.0%2Fwearable%2Fcustom_button.edj">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>YEUwnehHNHkAuaZFJqx4kuvi2uoTjW/wuumWP33h5kA=</DigestValue>
+</Reference>
+<Reference URI="res%2Fedje%2F3.0%2Fwearable%2Fefl_callback_viewer.edj">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>3hpoD+rn0ctDaG09Va4d4YQDsNHzWBqnlv2W9+HEaA8=</DigestValue>
+</Reference>
+<Reference URI="res%2Fedje%2F3.0%2Fwearable%2Fimage_viewer.edj">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>EulCCkTDz8pLvgIvgYgwtDilJRvW1/Iuo6+f4T9s7Fg=</DigestValue>
+</Reference>
+<Reference URI="res%2Fedje%2F3.0%2Fwearable%2Fshortcut_viewer.edj">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>7qZ3UkVZAnRpdzdsTRtsBSt+PjBUsrzqoUIy3jRN1qc=</DigestValue>
+</Reference>
+<Reference URI="res%2Fedje%2F3.0%2Fwearable%2Fui_viewer.edj">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>G0l+hSX118KQhj0sk2wTTlls1AkZqKKi0Aya8LVTx/w=</DigestValue>
+</Reference>
+<Reference URI="res%2Fedje%2F3.0%2Fwearable%2Fvideo_player.edj">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>yd0idkD7dOmreNCD+1fE/f1sECO+9kVq6XuXxzcmCe0=</DigestValue>
+</Reference>
+<Reference URI="res%2Fedje%2F3.0%2Fwearable%2Fwearable_toolbar.edj">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>AwF0h0/IW1f/f0n6hbQ+jjVTdCDbC9eX98vWk0TufyI=</DigestValue>
+</Reference>
+<Reference URI="res%2Fedje%2F3.0%2Fwearable_320_x_320%2Fbluetooth_le_viewer.edj">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>rcVwoSxzy8y+6soVzzuGg5uJ5vhraca2LpKViPpNwrY=</DigestValue>
+</Reference>
+<Reference URI="res%2Fedje%2F3.0%2Fwearable_320_x_320%2Fbluetooth_oob_viewer.edj">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>UX79vMj0QYHfqhR6kdZAOjfTktgZJSVw2F/E5j2yd6g=</DigestValue>
+</Reference>
+<Reference URI="res%2Fedje%2F3.0%2Fwearable_320_x_320%2Fbluetooth_viewer.edj">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>6dm3wsRG5bgHmeHsjw+9PbFel4ZZjD3iDmy9vNH62e8=</DigestValue>
+</Reference>
+<Reference URI="res%2Fedje%2F3.0%2Fwearable_320_x_320%2Fcustom_button.edj">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>YEUwnehHNHkAuaZFJqx4kuvi2uoTjW/wuumWP33h5kA=</DigestValue>
+</Reference>
+<Reference URI="res%2Fedje%2F3.0%2Fwearable_320_x_320%2Fefl_callback_viewer.edj">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>JaWNu4PI3TwbH5FHdPFwajzm4uo7ttDhMTCCrHHIvPI=</DigestValue>
+</Reference>
+<Reference URI="res%2Fedje%2F3.0%2Fwearable_320_x_320%2Fimage_viewer.edj">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>/5YDmBIOLXVHpvgvNMRGNIyI6os4y95Mq5nTlszDn+s=</DigestValue>
+</Reference>
+<Reference URI="res%2Fedje%2F3.0%2Fwearable_320_x_320%2Fshortcut_viewer.edj">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>TbSJX1HSdz3wCdaMon/3UXXiLiBiQVzfoUB39xleQIs=</DigestValue>
+</Reference>
+<Reference URI="res%2Fedje%2F3.0%2Fwearable_320_x_320%2Fui_viewer.edj">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>S4H0IzP2Uj9gozqJDfpFS7MvgwhoBIK0CG9KHEN2qQA=</DigestValue>
+</Reference>
+<Reference URI="res%2Fedje%2F3.0%2Fwearable_320_x_320%2Fvideo_player.edj">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>qlRf4nPoCIvQDpz07yF0TSmPAYgrgRKbyXq+GbsVyRU=</DigestValue>
+</Reference>
+<Reference URI="res%2Fedje%2F3.0%2Fwearable_320_x_320%2Fwearable_320_x_320_toolbar.edj">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>HyuF0tNEu3V/wG1DFgDGXWHz5ZuBRVEGiw4zNnkZy20=</DigestValue>
+</Reference>
+<Reference URI="res%2Fedje%2F3.0%2Fwearable_360_x_480%2Fbluetooth_le_viewer.edj">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>/F8iNyj3TnwxrMoMH6CujeIunV6PFccyfTNQIGxL15o=</DigestValue>
+</Reference>
+<Reference URI="res%2Fedje%2F3.0%2Fwearable_360_x_480%2Fbluetooth_oob_viewer.edj">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>5FQeI6ZdF0ZXw6r/kFZB8epazVRusfQd28fT+FbVMI8=</DigestValue>
+</Reference>
+<Reference URI="res%2Fedje%2F3.0%2Fwearable_360_x_480%2Fbluetooth_viewer.edj">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>4QmIpF22xTdUT7QgbOubiONmJB+/q/fL4c9vRCulEYA=</DigestValue>
+</Reference>
+<Reference URI="res%2Fedje%2F3.0%2Fwearable_360_x_480%2Fcustom_button.edj">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>YEUwnehHNHkAuaZFJqx4kuvi2uoTjW/wuumWP33h5kA=</DigestValue>
+</Reference>
+<Reference URI="res%2Fedje%2F3.0%2Fwearable_360_x_480%2Fefl_callback_viewer.edj">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>Z1RQB/rF3QgcwYCYER8cviaPokBFCdg2xvP9em8VYbc=</DigestValue>
+</Reference>
+<Reference URI="res%2Fedje%2F3.0%2Fwearable_360_x_480%2Fimage_viewer.edj">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>iHEStPu2AJmLNQjCmtIwRj6OVaQFFe+g0Jf1o9nwPIk=</DigestValue>
+</Reference>
+<Reference URI="res%2Fedje%2F3.0%2Fwearable_360_x_480%2Fshortcut_viewer.edj">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>Pl7iurwNr87qqvfQvhyX5l1CvfPMRpwOZjlIBKqzA4I=</DigestValue>
+</Reference>
+<Reference URI="res%2Fedje%2F3.0%2Fwearable_360_x_480%2Fui_viewer.edj">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>IfupNJe+0P+vkn0jcjIeYzKpRiY3Z4qPoqpQ4XZpcOo=</DigestValue>
+</Reference>
+<Reference URI="res%2Fedje%2F3.0%2Fwearable_360_x_480%2Fvideo_player.edj">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>ZAiOgU7J4Gi9JlvI5NDC9j2193oiCmbMm9ztOUZlp8Q=</DigestValue>
+</Reference>
+<Reference URI="res%2Fedje%2F3.0%2Fwearable_360_x_480%2Fwearable_360_x_480_toolbar.edj">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>qnZ5ntoFJfxZkQow53UwFp66v5dJzs/y/ZGdDAmcjSw=</DigestValue>
+</Reference>
+<Reference URI="res%2Fedje%2F3.0%2Fwearable_circle%2Fbluetooth_le_viewer.edj">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>kWCHYLzaMVQqLQfXRIAzjJ+Ft68E77TWlLqFWHmd8Hg=</DigestValue>
+</Reference>
+<Reference URI="res%2Fedje%2F3.0%2Fwearable_circle%2Fbluetooth_oob_viewer.edj">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>rTmuf6Q9rvQPipKetpkYxY9OThwncZvNuvuAJakzOXs=</DigestValue>
+</Reference>
+<Reference URI="res%2Fedje%2F3.0%2Fwearable_circle%2Fbluetooth_viewer.edj">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>fsllaiPg/hKlbVUxe7smK9zkwtG078iLjWyD1U3qvqA=</DigestValue>
+</Reference>
+<Reference URI="res%2Fedje%2F3.0%2Fwearable_circle%2Fcustom_button.edj">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>YEUwnehHNHkAuaZFJqx4kuvi2uoTjW/wuumWP33h5kA=</DigestValue>
+</Reference>
+<Reference URI="res%2Fedje%2F3.0%2Fwearable_circle%2Fefl_callback_viewer.edj">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>q+KHCCIWD0Sz1odFClP4zK4o6w1T2KO65uJT3dqbiXM=</DigestValue>
+</Reference>
+<Reference URI="res%2Fedje%2F3.0%2Fwearable_circle%2Fimage_viewer.edj">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>qhUS3smXjLHDtpZVuIReKDbMsL7EfEo3eHBCQzZxv18=</DigestValue>
+</Reference>
+<Reference URI="res%2Fedje%2F3.0%2Fwearable_circle%2Fshortcut_viewer.edj">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>c2/JHElCLYLBnLhwuxxMEaCNPq1pQIFok+EvsZBNv2s=</DigestValue>
+</Reference>
+<Reference URI="res%2Fedje%2F3.0%2Fwearable_circle%2Fui_viewer.edj">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>qwhI/KYoLOuvY2yM3IQUVgs4Jd+sPeR6bG3AEi2MsEc=</DigestValue>
+</Reference>
+<Reference URI="res%2Fedje%2F3.0%2Fwearable_circle%2Fvideo_player.edj">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>dL4xrveAn+Iwg0HjHMKyulIqIoJWFD1VyxCaeqLj1/U=</DigestValue>
+</Reference>
+<Reference URI="res%2Fedje%2F3.0%2Fwearable_circle%2Fwearable_circle_toolbar.edj">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>7g5amOiqfjc9AhGnvuf7H3WLJENFGdNBGpg3zRUV+D0=</DigestValue>
+</Reference>
+<Reference URI="res%2Ficon%2Fapp_failed.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>fYpjyE+Coh3VdAVMucXLFlr5ZvE21zBI7DeTPu1+T3A=</DigestValue>
+</Reference>
+<Reference URI="res%2Ficon%2Fapp_not_supported.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>oxX3kz7Ot/nqJSKn/nUzwMevCidLhyYtyaGDGpI1138=</DigestValue>
+</Reference>
+<Reference URI="res%2Ficon%2Fapp_not_tested.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>MG+f4+VUdwmeTdpVtfMDeeWPVz4Rf7Eu9TC+I1UPGuo=</DigestValue>
+</Reference>
+<Reference URI="res%2Ficon%2Fapp_passed.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>8CwVuc1KIdhqjwJI1c4FOgIJNUgJVlBKxJzdCmhw3OY=</DigestValue>
+</Reference>
+<Reference URI="res%2Fimages%2Fgiraffe_800_1179.jpg">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>PemByZhsVq5SUSdoQz8eT2Cn32CB99VNdrW9My2HXYw=</DigestValue>
+</Reference>
+<Reference URI="res%2Fres.xml">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>2ZbyqC64RllT1GCNW5IIyp4vn8GswcvepAJJ/rY2HVk=</DigestValue>
+</Reference>
+<Reference URI="res%2Ftizen_blank_16.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>PJXZLMy+wHA5IHiu7n0sRxCTZbai4Ob9j01SQWKM7cY=</DigestValue>
+</Reference>
+<Reference URI="res%2Ftizen_blank_32.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>VMERsWMsSTr+NVV5yLVheDKHEydRxBt1ZqiXv9Pe3ko=</DigestValue>
+</Reference>
+<Reference URI="res%2Ftizen_blank_64.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>0ARvv3oS2bRH8GYsM+sAupHvzrjekFu80mbIVRELUc4=</DigestValue>
+</Reference>
+<Reference URI="shared%2Fres%2Fbt_behavior.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>1d0oEZHqPn+QzNzGIHwj9ODby6x9ggFs9uOsav6jPNs=</DigestValue>
+</Reference>
+<Reference URI="shared%2Fres%2Fimages%2Fgiraffe_800_1179.jpg">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>PemByZhsVq5SUSdoQz8eT2Cn32CB99VNdrW9My2HXYw=</DigestValue>
+</Reference>
+<Reference URI="shared%2Fres%2Ftbtcoreapp.png">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>1d0oEZHqPn+QzNzGIHwj9ODby6x9ggFs9uOsav6jPNs=</DigestValue>
+</Reference>
+<Reference URI="tizen-manifest.xml">
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>+uCbFA7jZIV3IIWc2+b8q89D0ijcjpYN1pnTYKj4RGY=</DigestValue>
+</Reference>
+<Reference URI="#prop">
+<Transforms>
+<Transform Algorithm="http://www.w3.org/2006/12/xml-c14n11"></Transform>
+</Transforms>
+<DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></DigestMethod>
+<DigestValue>lpo8tUDs054eLlBQXiDPVDVKfw30ZZdtkRs1jd7H5K8=</DigestValue>
+</Reference>
+</SignedInfo>
+<SignatureValue>
+eXt8r7Z+MZNes8bjDhFpZYnR+9cSAd75TnB5TWlO3hB5UMuZ78Wd5psDVFl3fVXrFm567TCwQEe6
+hBtjJ+PH0MD0FM7OHGuyRLOFguRGw9RXi3zQRJyoyL8spGhIf+bGM/STo+nGD72hstBIr4v2NHOc
+QJLFn1OX8Xf/I5aM8e9OWzOqZ6kY1cIus484fuRx5vygiq8TvZfphX0qh7dQyqBwBwZCmbl4cM3A
+I41MtnkmEMW2GofPVU9vgS0lucb1TFgkBkXOYD1e0zq+zUNTzFYv55cGGCp9DcHy5pC9qQlBDEmv
+jbgTHghhOVy6Do0KJs/ZQCT+ISxWc+xjd29LrQ==
+</SignatureValue>
+<KeyInfo>
+<X509Data>
+<X509Certificate>
+MIIDmDCCAoCgAwIBAgIBATANBgkqhkiG9w0BAQsFADCBsDELMAkGA1UEBhMCS1IxFDASBgNVBAgM
+C1NvdXRoIEtvcmVhMQ4wDAYDVQQHDAVTdXdvbjEmMCQGA1UECgwdU2Ftc3VuZyBFbGVjdHJvbmlj
+cyBDby4sIEx0ZC4xDzANBgNVBAsMBk1vYmlsZTEgMB4GA1UEAwwXU2Ftc3VuZyBBdXRob3IgQ0Eg
+Q2xhc3MxIDAeBgkqhkiG9w0BCQEWEXRpemVuQHNhbXN1bmcuY29tMB4XDTE2MDIxNzA5MDI0OFoX
+DTE3MDIxNjA5MDI0OFowUjELMAkGA1UEBhMCVUsxCTAHBgNVBAgTADEJMAcGA1UEBxMAMQkwBwYD
+VQQKEwAxCTAHBgNVBAsTADEXMBUGA1UEAxMOTWFydGluIFdvb2xsZXkwggEiMA0GCSqGSIb3DQEB
+AQUAA4IBDwAwggEKAoIBAQC8jIMUsaMmTKn9s1xyCI3G6ZlUqhy11sCMzAAAHNGkCkmcp4rbgPY9
+yY+/pR6S1yCfH3nEBMydVdVwPl/MS2/LLtOuiZnaApGzJwzwEket1RBOGy02WaGu1gfFP8toLCA7
+1S2kBlwuiNWL98puOh+ArEg5LhB+gKECKUY9AL1akavr4lJRnG1u2XoRby6YzhNHIIXMKmZDkHHl
+uO1RutFn8ZWIk8wfnKDllnbQiqy/Zjhpzngj0G9kPb/qE9CYa8CK2hFpVgn+ZHUGCHB73LJrcnQD
+3NL5t8tuZclQV6M7v8I3EDf9ulYr/1WyOyTRwJs29b2nmri9I95P6T8se4lvAgMBAAGjGjAYMAkG
+A1UdEwQCMAAwCwYDVR0PBAQDAgeAMA0GCSqGSIb3DQEBCwUAA4IBAQBfRmlkze8FGt/XPOdNysbx
+XOJwKdNQ54i5mX1yt2LW1/MDBohX+wbD6K1NkFln3Vedsnzr0OeIlk3DZ+LIV8pCGIhexJ692ci1
+60oFDE2vu2hA7vZuYur2meLSDzvs6En0R9f67a/hr+Tzisiq6krgGqSmHfcshwnOyW0F7ABSDRBQ
+5JS5m7jLKb18njXVGmZJ2AUdqxdCNYVmACsP5iekeMII6QGAi9NtrWcFQ6j+7wyLv0S+wQu4pSQJ
+Dsif6HYFTR8RYygq4quzIjYkox8wlvVtlWjbNUOieFY+Oz4XzWLE0HEgnXqrGZgsQnMW5KcWj/2k
+yBHobhXrL3C/RLDb
+</X509Certificate>
+<X509Certificate>
+MIIDmzCCAoOgAwIBAgICYygwDQYJKoZIhvcNAQELBQAwXjEaMBgGA1UECgwRVGl6ZW4gQXNzb2Np
+YXRpb24xGjAYBgNVBAsMEVRpemVuIEFzc29jaWF0aW9uMSQwIgYDVQQDDBtUaXplbiBEZXZlbG9w
+ZXJzIFJvb3QgQ2xhc3MwHhcNMTMxMjMwMTUwNTU4WhcNMjgxMjI2MTUwNTU4WjCBsDELMAkGA1UE
+BhMCS1IxFDASBgNVBAgMC1NvdXRoIEtvcmVhMQ4wDAYDVQQHDAVTdXdvbjEmMCQGA1UECgwdU2Ft
+c3VuZyBFbGVjdHJvbmljcyBDby4sIEx0ZC4xDzANBgNVBAsMBk1vYmlsZTEgMB4GA1UEAwwXU2Ft
+c3VuZyBBdXRob3IgQ0EgQ2xhc3MxIDAeBgkqhkiG9w0BCQEWEXRpemVuQHNhbXN1bmcuY29tMIIB
+IjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAs+tRBgnKJs8j7BFg8/UftqbqTCYBV3Jrg1vK
+YvEuoTfntYz2uT2SO67raiCsZBAYvJnP54ExkdV++UgB7BDGniWz7bA1pYKak5kNK5jtLQt2DmZX
+3qgaLjMyoAz+293CxrBQO4h8NaTQGsO/WLpeQq2Y1ZEnHsq+EUn90H6Vm0HNW+KUayGPYdey+QSW
+iiv+L++TSuHrw0b16GYn83emiTnKTCmwpSOZ712Gy9kccl46/K4C8skEDVZjTk9s7r/MN9ZNZsqR
+brT/3AYcrF4ao8ipwlHK91WJBXXaiQICvp/dNfCSDWpTWy7z4XmgP16pSLnfgZlwEwWfiaavHRNM
+mwIDAQABoxAwDjAMBgNVHRMEBTADAQH/MA0GCSqGSIb3DQEBCwUAA4IBAQB/ZlNMTzlIHqC3mFSq
+ptuQDZG96XnYqiWsbYkqGgNhcq6c/B3TQsg7Z8cxXY/eqJQDN5gbrIpiUugMRdSOpAEcxF3lwd5k
+oOzVLn+3I7x1k6Q4pZdi1fJx+1XjCtrQgPqtvwM77urNqIA1MSG6HUPxYAKkRKjWPsg346E8S/c1
+Hq4UVBYEFcDC467uvWtYjxjEVQTmNUaUcQLU9P6VEL4QW+t7V54IN6IJDr9HoOGSgApxIBDDU46b
+MUwl+yK0GPvhrviwfVPkfmys1hn5N+gWectQVpBB1gbfy2KlLCCvW/Kl1VmtYz1kWwTyG8bwcjE0
+GLkwKNN5lPod+FmMhuW9
+</X509Certificate>
+</X509Data>
+</KeyInfo>
+<Object Id="prop"><SignatureProperties xmlns:dsp="http://www.w3.org/2009/xmldsig-properties"><SignatureProperty Id="profile" Target="#AuthorSignature"><dsp:Profile URI="http://www.w3.org/ns/widgets-digsig#profile"></dsp:Profile></SignatureProperty><SignatureProperty Id="role" Target="#AuthorSignature"><dsp:Role URI="http://www.w3.org/ns/widgets-digsig#role-author"></dsp:Role></SignatureProperty><SignatureProperty Id="identifier" Target="#AuthorSignature"><dsp:Identifier></dsp:Identifier></SignatureProperty></SignatureProperties></Object>
+</Signature>

@@ -1,0 +1,37 @@
+#define TEXT_HEIGHT 0.08
+
+	collections
+	{
+	    base_scale: 1.8;
+	    group
+	    {
+	        name: "bluetooth_oob_viewer";
+	        parts{
+	            part{
+	                name: "bluetooth_oob_text";
+	                type: SWALLOW;
+	                description{
+	                    state: "default" 0.0;
+	                    align: 0.0 0.0;
+	                    visible: 1;
+	                    rel1 {relative: 0.0 0.0; }
+	                    rel2 {relative: 1.0 TEXT_HEIGHT; }
+	                }
+	            }
+	            
+                part { 
+				name: "controlr_part";
+                         type: SWALLOW;
+                        description {
+                        state: "default" 0.0;
+                       rel1 {  
+					   relative: 0.0 0.9;
+               		}
+                       rel2 { 
+        			   relative: 1.0 1.0 ; }
+                                    visible: 1;
+                             
+                   }
+	        }
+	    }
+	}

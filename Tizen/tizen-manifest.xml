@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<manifest xmlns="http://tizen.org/ns/packages" api-version="2.3" package="org.example.bt_behavior" version="1.0.3">
+    <profile name="mobile"/>
+    <ui-application appid="org.example.bt_behavior" exec="bt_behavior" multiple="false" nodisplay="false" taskmanage="true" type="capp">
+        <label>TizenBLE</label>
+        <icon>bt_behavior.png</icon>
+    </ui-application>
+    <privileges>
+        <privilege>http://tizen.org/privilege/shortcut</privilege>
+        <privilege>http://tizen.org/privilege/datasharing</privilege>
+        <privilege>http://tizen.org/privilege/network.get</privilege>
+        <privilege>http://tizen.org/privilege/appmanager.launch</privilege>
+        <privilege>http://tizen.org/privilege/push</privilege>
+        <privilege>http://tizen.org/privilege/bluetooth</privilege>
+        <privilege>http://tizen.org/privilege/notification</privilege>
+        <privilege>http://tizen.org/privilege/network.set</privilege>
+    </privileges>
+</manifest>
